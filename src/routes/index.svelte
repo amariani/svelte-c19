@@ -10,7 +10,7 @@
 
 <div class="section header">
   <div class="container">
-    <h1>Covid 19 - US</h1>
+    <h1 class="title">Covid 19 - US</h1>
   </div>
 </div>
 

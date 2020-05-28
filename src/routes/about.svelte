@@ -4,7 +4,7 @@
 
 <div class="section header">
   <div class="container">
-    <h1>About</h1>
+    <h1 class="title">About</h1>
     <p>
       The data for this site came from
       <a href="https://covidtracking.com">Covid Tracking</a>
