@@ -17,6 +17,15 @@
   export let state;
 </script>
 
-<h1>{state}</h1>
+<svelte:head>
+  <title>Covid 19 Tracker - {state}</title>
+</svelte:head>
+
+<div class="section header">
+  <div class="container">
+    <h1 class="title">Covid 19 - {state}</h1>
+  </div>
+</div>
+
 <CovidStat />
 <CovidChart />
